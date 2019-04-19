@@ -1,5 +1,9 @@
 # [vue-jquery-timepicker demo](https://vue-jquery-timepicker.ostrike.com/)
 
+This was built to help with a Stack Overflow question: 
+
+https://stackoverflow.com/questions/55764192/using-jquery-ui-and-time-picker-with-vue
+
 ## Project setup
 ```
 npm install
