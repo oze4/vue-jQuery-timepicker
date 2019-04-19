@@ -1,4 +1,4 @@
-# [vue-jquery-timepicker](https://vue-jquery-timepicker.ostrike.com/)
+# [vue-jquery-timepicker demo](https://vue-jquery-timepicker.ostrike.com/)
 
 ## Project setup
 ```
