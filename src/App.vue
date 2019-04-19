@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Built by Matthew Oestreich</h1>
     <div>
       <span>Timepicker 1</span>
       <vue-timepicker/>
