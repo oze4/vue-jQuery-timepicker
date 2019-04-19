@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "jquery": "^3.4.0",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-timepicker-addon": "^1.6.3",
     "vue": "^2.6.10"
   },
   "devDependencies": {
