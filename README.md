@@ -4,6 +4,27 @@ This was built to help with a Stack Overflow question:
 
 https://stackoverflow.com/questions/55764192/using-jquery-ui-and-time-picker-with-vue
 
+<hr/>
+<hr/>
+  
+***NOTE: :!! IF YOU WANT TO USE `vue serve` TO START YOUR DEV SERVER !!:*** 
+
+- After forking or downloading this repo, you must run the following command before using `vue serve`!!!
+  - *`vue-serve` **MUST BE RAN FROM** `src`*
+  - **Alternatively**, you can just run: *`npm run serve`*
+- **Example path for windows:** *C:\Path\To\vue-jQuery-timepicker\\**src***
+- **Example path for mac/linux:** *~/Path/To/vue-jQuery-timepicker/**src***
+- **Change directory:** *cd src*
+
+<sup>*this command allows you to use the vue-cli-service from terminal*</sup>
+## Insall @vue/cli-service-global
+```
+npm run preinstall
+```
+
+<hr/>
+<hr/>
+
 ## Project setup
 ```
 npm install
