@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/55764192/using-jquery-ui-and-time-picker-wit
 - **Change directory:** *cd src*
 
 <sup>*this command allows you to use the vue-cli-service from terminal*</sup>
-## Insall @vue/cli-service-global
+## Insall @vue/cli-service-global [using the following command](https://github.com/oze4/vue-jQuery-timepicker/blob/aac55f19028d3f8eceaed1db6ce7fd45e6ee20f2/package.json#L9):
 ```
 npm run preinstall
 ```
