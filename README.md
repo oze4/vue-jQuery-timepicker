@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/55764192/using-jquery-ui-and-time-picker-wit
 ***NOTE: :!! IF YOU WANT TO USE `vue serve` TO START YOUR DEV SERVER !!:*** 
 
 - After forking or downloading this repo, you must run the following command before using `vue serve`!!!
-  - *`vue serve` **MUST BE RAN FROM** `src`*
+  - *`vue serve` **MUST BE RAN FROM** `~/vue-jQuery-timepicker/src`* directory, or else you will get an error!
   - **Alternatively**, you can just run: *`npm run serve`* from root repo directory
 - **Example path for windows:** *C:\Path\To\vue-jQuery-timepicker\\**src***
 - **Example path for mac/linux:** *~/Path/To/vue-jQuery-timepicker/**src***
